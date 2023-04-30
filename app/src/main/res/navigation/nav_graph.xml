@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/initalFragment"
-        android:name="com.jin.monito.presentation.initial.InitalFragment"
+        android:name="com.jin.monito.presentation.initial.InitialFragment"
         android:label="fragment_inital"
         tools:layout="@layout/fragment_inital">
         <action

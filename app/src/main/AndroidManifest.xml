@@ -4,6 +4,7 @@
     package="com.jin.monito">
 
     <application
+        android:name=".presentation.Monito"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
