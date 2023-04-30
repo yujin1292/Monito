@@ -1,4 +1,4 @@
-package com.jin.monito.presentation
+package com.jin.monito
 
 import android.app.Application
 import timber.log.Timber
